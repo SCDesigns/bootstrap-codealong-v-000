@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*/////// MEDIA ////////*/
 
 img, video, audio, iframe, table, form {
@@ -12,6 +13,8 @@ img, video, audio, iframe, table, form {
 	margin-bottom: 20px;
 }
 =======
+=======
+>>>>>>> 773ac392e193a012e9e76907a153e380ca552124
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900);
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script);
 
@@ -84,4 +87,7 @@ figcaption {
 #details a:active {
   color: red;
 }
+<<<<<<< HEAD
+>>>>>>> 773ac392e193a012e9e76907a153e380ca552124
+=======
 >>>>>>> 773ac392e193a012e9e76907a153e380ca552124

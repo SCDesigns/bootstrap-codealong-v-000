@@ -1,9 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Exceptional Realty Website (Bootstrapped Version)
 
 This is an example website using the Twitter Bootstrap v3.3.7 framework.
 More information on using Bootstrap can be found at: [GetBootstrap.com](http://getbootstrap.com)
 =======
+=======
+>>>>>>> 773ac392e193a012e9e76907a153e380ca552124
 # Bootstrap Code-Along
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/o5UCDvaNLd8?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
@@ -19,4 +22,7 @@ Finally, because this is a simple code-along, you won't actually have to submit 
 (And yes, we'll be updating the video ASAP!)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-codealong' title='Bootstrap Code-Along'>Bootstrap Code-Along</a> on Learn.co and start learning to code for free.</p>
+<<<<<<< HEAD
+>>>>>>> 773ac392e193a012e9e76907a153e380ca552124
+=======
 >>>>>>> 773ac392e193a012e9e76907a153e380ca552124
